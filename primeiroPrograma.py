@@ -192,4 +192,4 @@ def russa():
             print(f'\033[31m{x}! No {cont}º disparo!\033[m')
             break
 
-russa()
+menu()
