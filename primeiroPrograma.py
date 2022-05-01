@@ -168,7 +168,7 @@ def russa():
     from random import choice
     from time import sleep
     
-    #codigo copiado do stackoverflow
+    #codigo copiado do stackoverflow: https://pt.stackoverflow.com/a/462181
     print('=' * 30)
     print(f'\033[34m{f"Roleta Russa":^30}\033[m')
     print('=' * 30)
